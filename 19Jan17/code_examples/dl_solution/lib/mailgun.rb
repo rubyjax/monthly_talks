@@ -12,6 +12,12 @@ class Mailgun
     RestClient.post messages, message
   end
 
+  def is_suppressed? email
+    suppression_list = RestClient.get @api_key + "bounces"
+    suppressions = JSON.parse suppression_list.body
+    suppressions["items"].map { |i| i.has_value? email}.any?
+  end
+
   def messages
     @api_key + "messages"
   end
