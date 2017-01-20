@@ -23,7 +23,4 @@ oh, and...
 
 make sure you write tests :)
 
-if you do not wish to make a Mailgun account, feel free to use,
-
-login    - 444c43@gmail.com 
-password - ruby_jax (completely unique, so don't bother checking elsewhere)
+you will need to create your own Mailgun account to accomplish this task.
