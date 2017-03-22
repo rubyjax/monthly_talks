@@ -1,4 +1,4 @@
-#19Jan17 - DL Cummings { RubyJax and 2017: What's Next? }
+# 19Jan17 - DL Cummings { RubyJax and 2017: What's Next? }
 
 You've probably heard RubyJax is under new leadership and have questions: Are we
 changing the date (no)? Will we start charging (no)?
