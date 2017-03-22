@@ -18,6 +18,8 @@ novice level devs to participate. This is merely a heads up not an expectation o
 
 Relevant Links:
 
+Full code examples from this talk can be found on John's github [HERE](https://github.com/hogihung/bidder-up)
+
 [HAML](http://haml.info), [ERB](http://ruby-doc.org/stdlib-2.4.0/libdoc/erb/rdoc/ERB.html), [Slim](http://slim-lang.com) & [Ruby Prof](https://github.com/ruby-prof/ruby-prof)
 
 John also blogs over at [OGNT](http://ognt.io).
