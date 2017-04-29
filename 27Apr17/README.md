@@ -15,6 +15,9 @@ be sure to stay tuned!
 Relevant Links:
 
 [Rails Guides API-only Applications](http://guides.rubyonrails.org/api_app.html)
+
 [Postman](https://www.getpostman.com)
+
 [Swagger::Blocks](https://github.com/fotinakis/swagger-blocks)
+
 [Programmable Web](https://www.programmableweb.com)

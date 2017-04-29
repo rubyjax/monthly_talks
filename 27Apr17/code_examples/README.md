@@ -32,12 +32,12 @@
 
 ## Clone the bundled api project
 
-In this directory you'll find the file _api.git_ which is the completed
+In this directory you'll find the file _api.bundle_ which is the completed
 project. Try not to use this unless you get stuck. If you do need it, do the
-following: `$ git clone api.git election_api/`
+following: `$ git clone api.bundle election_api/`
 
-You may wish to move _api.git_ into a new directory outside of this project.
-_api.git_ is a bundle of the actual api repo, with all the commits. It may
+You may wish to move _api.bundle_ into a new directory outside of this project.
+_api.bundle_ is a bundle of the actual api repo, with all the commits. It may
 cause you conflict cloning it here.
 
 ## Create your own api project, step-by-step
